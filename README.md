@@ -1,4 +1,4 @@
-# AWS Dev Associate Notes #
+# AWS Dev Associate Study Notes #
 
 ## Elastic Beanstalk ##
 
